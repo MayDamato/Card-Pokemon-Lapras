@@ -125,4 +125,3 @@ body {
 .card.active .content::before {
     visibility: hidden;
 }
-
